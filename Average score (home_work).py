@@ -8,4 +8,4 @@ avg3 = sum(grades[3]) / len(grades[3])
 avg4 = sum(grades[4]) / len(grades[4])
 d = dict(((students[0], avg0), (students[1], avg1), (students[2], avg2), (students[3], avg3), (students[4], avg4)))
 print(d)
-
+#123
